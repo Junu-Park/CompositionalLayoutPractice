@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  CompositionalLayout
+//  CompositionalLayoutPractice
 //
 //  Created by 박준우 on 2/27/25.
 //
